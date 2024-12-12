@@ -1,4 +1,4 @@
-namespace _1_Koleksiyonlar
+namespace _1_Exceptions
 {
     internal static class Program
     {
